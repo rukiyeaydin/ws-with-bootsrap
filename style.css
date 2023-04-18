@@ -1,0 +1,22 @@
+.navbar{
+    background-color: #42843b;
+}
+main{
+    background-color: rgb(186, 177, 183);
+}
+.card-img-top{
+    width: 100%;
+    height: 30vh;
+    object-fit: cover;
+}
+footer{
+    background-color: #42843b;
+}
+.col-md-4:hover{
+    transform: scale(1.05);
+}
+@media(min-width:768px){
+    #map{
+        height: 100%;
+    }
+}
